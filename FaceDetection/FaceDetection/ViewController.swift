@@ -11,7 +11,7 @@ import Vision
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        guard let myImage = UIImage(named: "Jennifer")
+        guard let myImage = UIImage(named: "Jon Snow")
             else {return}
         //guard let myImage = UIImage(named: "Beatles")
         //else {return}
